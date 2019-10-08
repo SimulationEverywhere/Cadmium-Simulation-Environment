@@ -20,4 +20,4 @@ http://www.sce.carleton.ca/courses/sysc-5104/lib/exe/fetch.php?media=cadmium.pdf
 The manual includes:
 - Installation instructions
 - Example of a DEVS model implemented in Cadmium
-- Service provided by Cadmium
+- Services provided by Cadmium
