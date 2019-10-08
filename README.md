@@ -13,6 +13,11 @@ To *download an individual component* (ex, DEVS-Models) clone this repository an
 
 If it is your first time running a Cadmium model you need to setup your environment.
 
-Instructions for setting up the environment can be found here:
+Cadmium user manual be found in:
 
 http://www.sce.carleton.ca/courses/sysc-5104/lib/exe/fetch.php?media=cadmium.pdf
+
+The manual includes:
+- Installation instructions
+- Example of a DEVS model implemented in Cadmium
+- Service provided by Cadmium
