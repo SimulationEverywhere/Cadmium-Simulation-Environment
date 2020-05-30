@@ -1,7 +1,3 @@
-[submodule "Cadmium-DEVS-Models"]
-	path = Cadmium-DEVS-Models
-	url = https://github.com/SimulationEverywhere/Cadmium-DEVS-Models.git
-
 [submodule "cadmium"]
 	path = cadmium
 	url = https://github.com/SimulationEverywhere/cadmium.git
@@ -11,3 +7,6 @@
 [submodule "RT-Cadmium-Models"]
 	path = RT-Cadmium-Models
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-Models
+[submodule "DEVS-Models"]
+	path = DEVS-Models
+	url = https://github.com/SimulationEverywhere/Cadmium-DEVS-Models.git
