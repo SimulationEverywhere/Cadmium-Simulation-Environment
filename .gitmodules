@@ -4,7 +4,7 @@
 [submodule "DESTimes"]
 	path = DESTimes
 	url = https://github.com/SimulationEverywhere/DESTimes.git
-[submodule "RT-Cadmium-Models"]
+[submodule "RT-DEVS-Models"]
 	path = RT-Cadmium-Models
 	url = https://github.com/SimulationEverywhere/RT-Cadmium-Models
 [submodule "DEVS-Models"]
