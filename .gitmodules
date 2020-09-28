@@ -10,3 +10,6 @@
 [submodule "DEVS-Models"]
 	path = DEVS-Models
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-DEVS-Models.git
+[submodule "CadmiumModelJSONExporter"]
+	path = CadmiumModelJSONExporter
+	url = https://github.com/SimulationEverywhere/CadmiumModelJSONExporter.git
