@@ -16,3 +16,6 @@
 [submodule "Cadmium-SEIR-Asyn"]
 	path = Cadmium-SEIR-Asyn
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIR-Asyn
+[submodule "Cadmium-DEVS-Models"]
+	path = Cadmium-DEVS-Models
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-DEVS-Models
