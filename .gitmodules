@@ -13,3 +13,6 @@
 [submodule "CadmiumModelJSONExporter"]
 	path = CadmiumModelJSONExporter
 	url = https://github.com/SimulationEverywhere/CadmiumModelJSONExporter.git
+[submodule "Cadmium-SEIR-Asyn"]
+	path = Cadmium-SEIR-Asyn
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIR-Asyn
