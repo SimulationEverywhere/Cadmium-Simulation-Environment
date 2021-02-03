@@ -13,6 +13,6 @@
 [submodule "CadmiumModelJSONExporter"]
 	path = CadmiumModelJSONExporter
 	url = https://github.com/SimulationEverywhere/CadmiumModelJSONExporter.git
-[submodule "Cell-DEVS-Models/Cadmium-CellDEVS-SampleModels"]
+[submodule "Cadmium-CellDEVS-SampleModels"]
 	path = Cell-DEVS-Models/Cadmium-CellDEVS-SampleModels
-	url = git@github.com:SimulationEverywhere-Models/Cadmium-CellDEVS-SampleModels.git
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-CellDEVS-SampleModels.git
