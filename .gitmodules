@@ -16,3 +16,6 @@
 [submodule "Cell-DEVS-Models/Cadmium-CellDEVS-SampleModels"]
 	path = Cell-DEVS-Models/Cadmium-CellDEVS-SampleModels
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-CellDEVS-SampleModels
+[submodule "cadmium-web-extension"]
+	path = cadmium-web-extension
+	url = https://github.com/SimulationEverywhere/cadmium-web-extension.git
